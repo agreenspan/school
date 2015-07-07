@@ -1,0 +1,22 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "demo app to view student records",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"school\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agreenspan/school.git"
+  },
+  "author": "aron greenspan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agreenspan/school/issues"
+  },
+  "homepage": "https://github.com/agreenspan/school#readme",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  }
+}
