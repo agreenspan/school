@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/agreenspan/school#readme",
   "dependencies": {
-    "hapi": "^8.8.0"
+    "bookshelf": "^0.8.1",
+    "hapi": "^8.8.0",
+    "knex": "^0.8.6",
+    "pg": "^4.4.0"
   }
 }
